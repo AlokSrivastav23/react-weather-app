@@ -30,5 +30,6 @@ $ npm start # or yarn start
 - React Hooks
 - Display API Data Using Axios with React
 - [API](https://openweathermap.org/api)
+- Api is Application programming interface
 - React | [Font Awesome](https://fontawesome.com/how-to-use/on-the-web/using-with/react)
 - React loader [spinner](https://www.npmjs.com/package/react-loader-spinner)
